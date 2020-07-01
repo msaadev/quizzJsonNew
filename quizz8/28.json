@@ -1,0 +1,7 @@
+{
+    "question" : "Hangi isimde bir meyve yoktur?",
+    "correct_answer":"Hint muzu",
+    "incorrect1":"Hint armudu",
+    "incorrect2":"Hint kirazı",
+    "incorrect3":"Hint inciri"
+}

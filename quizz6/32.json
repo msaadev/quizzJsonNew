@@ -1,0 +1,7 @@
+{
+    "question" : "Hangi iki kelimenin anlamı aynıdır?",
+    "correct_answer":"Tanı ve teşhis",
+    "incorrect1":"Teşhis ve tedavi",
+    "incorrect2":"Tedavi ve semptom",
+    "incorrect3":"Tanı ve semptom"
+}

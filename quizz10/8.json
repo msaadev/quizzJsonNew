@@ -1,0 +1,7 @@
+{
+    "question" : "Bilinen 118 element arasında hangi isimde bir element yoktur?",
+    "correct_answer":"Newtonyum",
+    "incorrect1":"Aynştaynyum",
+    "incorrect2":"Mendelevyum",
+    "incorrect3":"Nobelyum"
+}

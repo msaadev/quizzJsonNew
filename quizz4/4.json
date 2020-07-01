@@ -1,0 +1,7 @@
+{
+    "question" : "40 yolcusu bulunan bir belediye otobüsünden, bir durakta 15 yolcu inip 9 yeni yolcu binmişse, son durumda yolcu sayısı kaç olur?",
+    "correct_answer":"34",
+    "incorrect1":"44",
+    "incorrect2":"36",
+    "incorrect3":"46"
+}

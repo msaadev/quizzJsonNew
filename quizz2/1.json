@@ -1,0 +1,7 @@
+{
+    "question" : "Pillerin iki ucunda bulunan işaretler hangileridir?",
+    "correct_answer":"Artı ve eksi",
+    "incorrect1":"1 ve 0",
+    "incorrect2":"X ve Y",
+    "incorrect3":"Üçgen ve dikdörtgen"
+}

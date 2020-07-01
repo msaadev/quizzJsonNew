@@ -1,0 +1,7 @@
+{
+    "question" : "Bir astronot Ay yüzeyinde ellerindeki bir kuş tüyü ile bir çekici aynı anda bırakırsa hangisi gerçekleşir?",
+    "correct_answer":"İkisi aynı anda düşer",
+    "incorrect1":"Çekiç önce düşer",
+    "incorrect2":"Kuş tüyü önce düşer",
+    "incorrect3":"İkisi de havada asılı kalır"
+}

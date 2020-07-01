@@ -1,0 +1,7 @@
+{
+    "question" : "Türkçede kelimeler en çok hangi harfle başlar?",
+    "correct_answer":"K harfi",
+    "incorrect1":"M harfi",
+    "incorrect2":"R harfi",
+    "incorrect3":"S harfi"
+}

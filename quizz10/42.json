@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "“Dromomani” adı verilen psikolojik rahatsızlık, hangisinin kontrol edilemeyen isteğidir?",
+    "correct_answer":"Seyahat etme",
+    "incorrect1":"Çalışma",
+    "incorrect2":"Yemek yeme",
+    "incorrect3":"Yazı yazma"
 }
-    
-    

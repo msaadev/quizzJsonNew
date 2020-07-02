@@ -1,0 +1,7 @@
+{
+    "question" : "Hangi isimde bir spor vardır?",
+    "correct_answer":"Futbol tenisi",
+    "incorrect1":"Basketbol tenisi",
+    "incorrect2":"Beyzbol tenisi",
+    "incorrect3":"Hentbol tenisi"
+}

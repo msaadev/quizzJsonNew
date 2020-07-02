@@ -1,0 +1,7 @@
+{
+    "question" : "Dün günlerden pazartesi ise yarın günlerden ne olur?",
+    "correct_answer":"Çarşamba",
+    "incorrect1":"Pazartesi",
+    "incorrect2":"Perşembe",
+    "incorrect3":"Salı"
+}

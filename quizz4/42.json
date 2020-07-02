@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "Peynir helvası yiyip, Aynalı Çarşı'yı geziyorsanız ve şehrin karşı yakasına geçmek için feribot beklemeniz gerekiyorsa neredesinizdir?",
+    "correct_answer":"Çanakkale",
+    "incorrect1":"Bursa",
+    "incorrect2":"Tekirdağ",
+    "incorrect3":"Adapazarı"
 }
-    
-    

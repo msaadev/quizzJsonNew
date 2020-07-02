@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "Eğer yurt dışından arayan arkadaşınız 'Burada geceler çok uzun, hava çok soğuk, her gün kar yağıyor’ diyorsa hangi ülkede olabilir?",
+    "correct_answer":"Arjantin",
+    "incorrect1":"Meksika",
+    "incorrect2":"Tayland",
+    "incorrect3":"Hindistan"
 }
-    
-    

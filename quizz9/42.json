@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "Hangi isimde bir gen vardır?",
+    "correct_answer":"Ben daha ölmedim",
+    "incorrect1":"Canım çok sıkılıyor",
+    "incorrect2":"Seviyor sevmiyor",
+    "incorrect3":"İncitme beni"
 }
-    
-    

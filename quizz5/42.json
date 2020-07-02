@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "'Ayının kırk türküsü var’ diye başlayan atasözüne göre, türkülerin kırkının da konusu hangisidir?",
+    "correct_answer":"Ahlat",
+    "incorrect1":"Uyku",
+    "incorrect2":"Bal",
+    "incorrect3":"Döngel"
 }
-    
-    

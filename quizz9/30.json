@@ -1,0 +1,7 @@
+{
+    "question" : "Hangi isimde bir böcek yoktur?",
+    "correct_answer":"Temmuz böceği",
+    "incorrect1":"Mayıs böceği",
+    "incorrect2":"Haziran böceği",
+    "incorrect3":"Ağustos böceği"
+}

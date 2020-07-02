@@ -1,9 +1,7 @@
 {
-    "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
-    "correct_answer":"Osman",
-    "incorrect1":"Orhan",
-    "incorrect2":"Murad",
-    "incorrect3":"Fatih Sultan Mehmet"
+    "question" : "Karşıdaki kişiye 'telefonla ara’ demek için yapılan el işaretinde başparmak kulağa götürülürken aynı elin hangi parmağı ağza doğru olur?",
+    "correct_answer":"Serçe parmağı",
+    "incorrect1":"İşaret parmağı",
+    "incorrect2":"Yüzük parmağı",
+    "incorrect3":"Orta parmağı"
 }
-    
-    

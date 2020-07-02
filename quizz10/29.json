@@ -1,0 +1,7 @@
+{
+    "question" : "Rakamlarla yazılmaya çalışıldığında evrene sığması mümkün olmayan ve Guinness Dünya Rekorları'na giren sayının adı nedir?",
+    "correct_answer":"Graham sayısı",
+    "incorrect1":"Gödel sayısı",
+    "incorrect2":"Cutler sayısı",
+    "incorrect3":"Friedman sayısı"
+}

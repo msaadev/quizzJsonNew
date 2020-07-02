@@ -1,0 +1,7 @@
+{
+    "question" : "Doğru tamamlanmış standart bir sudoku tablosunda bulunan 9 rakamlarının toplamı kaçtır?",
+    "correct_answer":"81",
+    "incorrect1":"63",
+    "incorrect2":"72",
+    "incorrect3":"90"
+}
